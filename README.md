@@ -1,4 +1,9 @@
 # accelone-js
+Instructions
+---
+
+run node exercise.js
+
 AccelOne challenge exercises
 
 /*
